@@ -1,0 +1,8 @@
+2023-08-06 06:47:35.800872 - Initialized conversion of CBT736
+2023-08-06 06:47:35.951458 - Received CBT.V505.FILE736.PDS from FILE736.XMI 
+2023-08-06 06:47:35.953903 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE736.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:47:35.954977 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE736.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:47:35.956027 - Found $INTRO.txt (text/plain) in CBT.V505.FILE736.PDS, moved to PDS/$INTRO
+2023-08-06 06:47:35.957091 - Found @FILE736.txt (text/plain) in CBT.V505.FILE736.PDS, moved to PDS/@FILE736
+2023-08-06 06:47:36.115090 - Found IODF.xmi (application/xmit) in CBT.V505.FILE736.PDS
+2023-08-06 06:47:36.121672   - Received to CBT736/NAUGHTON.FILE736
